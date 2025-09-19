@@ -45,7 +45,8 @@ $ make
 $ sudo make install
 ```
 ### Install result: 
-![Image](https://github.com/user-attachments/assets/c25bb647-6f72-4473-8a5b-e3a0cd449840)
+<img src="https://github.com/user-attachments/assets/c25bb647-6f72-4473-8a5b-e3a0cd449840" width="700" />
+
 ---
 
 ### 2.Icarus Verilog (iverilog) – HDL simulator
@@ -56,7 +57,7 @@ sudo apt-get update
 sudo apt-get install -y iverilog
 ```
 ### Install result: 
-![Image](https://github.com/user-attachments/assets/9cfbe190-ddb9-4781-a05d-d50d200d26dd)
+<img src="https://github.com/user-attachments/assets/9cfbe190-ddb9-4781-a05d-d50d200d26dd " width="700" />
 
 ---
 
@@ -68,8 +69,8 @@ sudo apt-get install -y gtkwave
 ```
 
 ### Install result: 
-![Image](https://github.com/user-attachments/assets/743d4634-d25f-49db-ab7d-907e2830c588)
----
+<img src="https://github.com/user-attachments/assets/743d4634-d25f-49db-ab7d-907e2830c588" width="700" />
+
 
 ### 4. NGSpice – Analog circuit simulator
 
@@ -91,8 +92,8 @@ $ sudo make install
 ```
 
 ### Install result: 
-![Image](https://github.com/user-attachments/assets/3471398a-aa4c-4d95-bcb0-95f0ca76f739)
----
+<img src="https://github.com/user-attachments/assets/3471398a-aa4c-4d95-bcb0-95f0ca76f739" width="700" />
+
 
 ### 5. Magic VLSI – Layout editor
 
@@ -118,9 +119,8 @@ sudo apt-get update
 sudo apt-get install -y magic
 ```
 ### Install result: 
-![Image](https://github.com/user-attachments/assets/97ca8540-12b0-4d3b-af97-4d532d5be05b)
-![Image](https://github.com/user-attachments/assets/8331e2ca-0026-41d3-b8ee-ee38b1641f43)
----
+<img src="https://github.com/user-attachments/assets/97ca8540-12b0-4d3b-af97-4d532d5be05b" width="700" />
+<img src="https://github.com/user-attachments/assets/8331e2ca-0026-41d3-b8ee-ee38b1641f43" width="700" />
 
 ### ✅ Final Note
 
