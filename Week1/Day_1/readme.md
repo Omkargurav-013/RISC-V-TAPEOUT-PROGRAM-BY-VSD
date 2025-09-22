@@ -6,14 +6,15 @@ This session introduces you to **simulation and synthesis** using open-source to
 ---
 
 ## 📑 Table of Contents
-1. What is a Simulator, Design, and Testbench?  
-2. Getting Started with iverilog (Icarus Verilog)  
-3. Lab: Simulating a 2-to-1 Multiplexer  
-4. Verilog Code — Analysis  
-5. Introduction to Yosys & Gate Libraries  
-6. Synthesis Lab with Yosys + ABC  
-7. Summary, Tips & Next Steps  
-8. Appendix — Raw Commands  
+- [1. What is a Simulator, Design, and Testbench?](#1-what-is-a-simulator-design-and-testbench)
+- [2. Getting Started with iverilog](#2-getting-started-with-iverilog)
+  - [Synthesis Lab with Yosys + ABC](#Synthesis-Lab-with-Yosys-+-ABC).
+- [3. Lab: Simulating a 2-to-1 Multiplexer](#3-lab--simulating-a-2-to-1-multiplexer)
+- [4. Verilog Code — Analysis](#4-verilog-code--analysis)
+- [5. Introduction to Yosys & Gate Libraries](#5-introduction-to-yosys--gate-libraries-sky130-example)
+- [6. Summary](#6-summary)
+
+
 
 ---
 
@@ -149,7 +150,6 @@ gtkwave tb_good_mux.vcd
 
 
 
-
 ### Synthesis Lab with Yosys + ABC
 
 Start Yosys:
@@ -197,7 +197,7 @@ write_verilog good_verilog_netlist.v
 
 ---
 
-## 7. Summary 
+## 6. Summary 
 
 ✔ **Simulated RTL with iverilog → produced .vcd → viewed in gtkwave**
 
