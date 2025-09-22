@@ -144,16 +144,18 @@ gtkwave tb_good_mux.vcd
 
 ## 5. Introduction to Yosys & Gate Libraries (sky130 example)
 
-**Yosys** is an open-source synthesis tool.
+- **Yosys** is an open-source synthesis tool.
+- We use the **Sky130 standard cell library** (sky130_fd_sc_hd__tt_025C_1v80.lib) to map RTL → gate-level netlist.
 
-We use the **Sky130 standard cell library** (sky130_fd_sc_hd__tt_025C_1v80.lib) to map RTL → gate-level netlist.
 
-Synthesis Lab with Yosys + ABC
+
+
+### Synthesis Lab with Yosys + ABC
 
 Start Yosys:
-
+``` bash
 yosys
-
+```
 
 Inside Yosys:
 ```bash
