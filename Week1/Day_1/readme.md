@@ -8,7 +8,6 @@ This session introduces you to **simulation and synthesis** using open-source to
 ## 📑 Table of Contents
 - [1. What is a Simulator, Design, and Testbench?](#1-what-is-a-simulator-design-and-testbench)
 - [2. Getting Started with iverilog](#2-getting-started-with-iverilog)
-  - [Synthesis Lab with Yosys + ABC](#Synthesis-Lab-with-Yosys-+-ABC).
 - [3. Lab: Simulating a 2-to-1 Multiplexer](#3-lab--simulating-a-2-to-1-multiplexer)
 - [4. Verilog Code — Analysis](#4-verilog-code--analysis)
 - [5. Introduction to Yosys & Gate Libraries](#5-introduction-to-yosys--gate-libraries-sky130-example)
@@ -55,6 +54,7 @@ cd lib            # contains sky130 library (.lib files)
 cd my_lib         # custom libraries
 cd verilog_files  # RTL design & TBs
 ```
+
 **Below is the flow graph of iverilog working**
 <img width="700" height="700" alt="iverilog_flow" src="https://github.com/user-attachments/assets/f8e6458c-f0a8-4830-b80f-937d5e3ad3fb" />
 
